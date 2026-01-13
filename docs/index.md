@@ -16,6 +16,12 @@ hero:
     - theme: alt
       text: 学习资料
       link: ./学习资料
+    - theme: alt
+      text: Lending_Check
+      link: ./Lending_Check
+    - theme: alt
+      text: Lending_漏洞
+      link: ./Lending_漏洞
 
 features:
   - title: Feature A
