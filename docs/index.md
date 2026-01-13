@@ -17,8 +17,8 @@ hero:
       text: Lending_业务简介
       link: ./Lending_业务简介      
     - theme: alt
-      text: Lending_Check
-      link: ./Lending_Check
+      text: Lending_Checklist
+      link: ./Lending_Checklist
     - theme: alt
       text: Lending_漏洞
       link: ./Lending_漏洞
