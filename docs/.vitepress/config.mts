@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Bitslab-Awesome-Web3-Security/',
   title: "Bitslab-Awesome-Web3-Security",
   description: "A Web3 Security Site",
   themeConfig: {
