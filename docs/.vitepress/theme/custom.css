@@ -1,0 +1,11 @@
+/* 将首页的 actions 改为纵向显示 */
+.VPHero .actions {
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 1rem !important;
+}
+
+.VPHero .actions .action {
+  width: 100%;
+  max-width: 300px;
+}
