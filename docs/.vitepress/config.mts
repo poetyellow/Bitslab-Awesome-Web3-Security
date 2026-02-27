@@ -37,7 +37,8 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
-          { text: '漏洞学习资料', link: '/漏洞学习资料' }
+          { text: '漏洞学习资料', link: '/漏洞学习资料' },
+          { text: '合约+业务学习资料', link: '/合约+业务学习资料' }
         ]
       }
     ],
